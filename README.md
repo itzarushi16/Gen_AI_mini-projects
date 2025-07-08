@@ -36,10 +36,4 @@ tkinter – Builds the chat window and buttons.
 speechrecognition – Listens to and processes your voice commands.
 pyttsx3 – Brings the chatbot’s voice to life with text-to-speech (TTS).
 
-Future Enhancements
-This is just the beginning! Some possible upgrades include:
-
-🌍 Multilingual Chatbot: Support for more languages.
-🔢 Advanced Math Solver: Handle complex math queries.
-💾 Offline Functionality: Enable chatbot interactions without an internet connection.
 
